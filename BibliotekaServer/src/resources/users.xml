@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="21.0.5" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="net.etf.model.User">
+    <void property="address">
+     <string>Majke jugovica</string>
+    </void>
+    <void property="email">
+     <string>filip@email.com</string>
+    </void>
+    <void property="name">
+     <string>Filip</string>
+    </void>
+    <void property="password">
+     <string>pass</string>
+    </void>
+    <void property="surname">
+     <string>Filipovic</string>
+    </void>
+    <void property="username">
+     <string>filip</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etf.model.User">
+    <void property="address">
+     <string>Srpskih pilota</string>
+    </void>
+    <void property="alowed">
+     <boolean>true</boolean>
+    </void>
+    <void property="email">
+     <string>ana@mail.com</string>
+    </void>
+    <void property="name">
+     <string>Ana</string>
+    </void>
+    <void property="password">
+     <string>pass</string>
+    </void>
+    <void property="surname">
+     <string>Anic</string>
+    </void>
+    <void property="username">
+     <string>ana1</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etf.model.User">
+    <void property="address">
+     <string>Srpska</string>
+    </void>
+    <void property="alowed">
+     <boolean>true</boolean>
+    </void>
+    <void property="blocked">
+     <boolean>true</boolean>
+    </void>
+    <void property="email">
+     <string>marko@mail.com</string>
+    </void>
+    <void property="name">
+     <string>Marko</string>
+    </void>
+    <void property="password">
+     <string>pass</string>
+    </void>
+    <void property="surname">
+     <string>Markovic</string>
+    </void>
+    <void property="username">
+     <string>marko123</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etf.model.User">
+    <void property="address">
+     <string>Platonova</string>
+    </void>
+    <void property="alowed">
+     <boolean>true</boolean>
+    </void>
+    <void property="email">
+     <string>mica.ignjatic01@gmail.com</string>
+    </void>
+    <void property="name">
+     <string>Jurich</string>
+    </void>
+    <void property="password">
+     <string>jurich</string>
+    </void>
+    <void property="surname">
+     <string>Carolina</string>
+    </void>
+    <void property="username">
+     <string>jurich</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etf.model.User">
+    <void property="address">
+     <string>Platonova</string>
+    </void>
+    <void property="email">
+     <string>mica.ignjatic01@gmail.com</string>
+    </void>
+    <void property="name">
+     <string>Bart</string>
+    </void>
+    <void property="password">
+     <string>bart</string>
+    </void>
+    <void property="surname">
+     <string>Meiers</string>
+    </void>
+    <void property="username">
+     <string>bart</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="net.etf.model.User">
+    <void property="address">
+     <string>Platonova</string>
+    </void>
+    <void property="alowed">
+     <boolean>true</boolean>
+    </void>
+    <void property="email">
+     <string>mica.ignjatic01@gmail.com</string>
+    </void>
+    <void property="name">
+     <string>Zoran</string>
+    </void>
+    <void property="password">
+     <string>zoran</string>
+    </void>
+    <void property="surname">
+     <string>Kvrzic</string>
+    </void>
+    <void property="username">
+     <string>zoran</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
